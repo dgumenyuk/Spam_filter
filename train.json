@@ -1,0 +1,222 @@
+{
+"dataset": [
+{
+"mail": {
+"Subject": "Win a car",
+"From": "spammer1@mail.com",
+"Date": "2004-08-15",
+"Body":"If you want to win a new car follow the link www.cheap.com",
+"Spam": "true",
+"File": "enronds//enron4/spam/2030.2004-08-15.GP.spam.txt"
+}
+
+},
+{
+"mail": {
+"Subject": "Meeting tomorrow",
+"From": "good_person1@mail.com",
+"Date": "2000-09-15",
+"Body":"Hi, I would like to know if we meet nicely tomorrow?",
+"Spam": "false",
+"File": "enronds//enron1/ham/2256.2000-09-15.farmer.ham.txt"
+}
+
+},
+{
+"mail": {
+"Subject": "Cinema pass",
+"From": "spammer1@mail.com",
+"Date": "2001-12-10",
+"Body":"Congrats! 1 year special cinema pass for 2 is yours. call 09061209465 now! ",
+"Spam": "true",
+"File": "enronds//enron3/ham/4519.2001-12-10.kitchen.ham.txt"
+}
+
+},
+{
+"mail": {
+"Subject": "Plans tomorrow",
+"From": "good_person1@mail.com",
+"Date": "2005-07-18",
+"Body":"Hello! How're you and how did awesome saturday go? I was just texting to see if you'd decided to do anything tomo.",
+"Spam": "false",
+"File": "enronds//enron2/spam/4995.2005-07-18.SA_and_HP.spam.txt"
+}
+
+},
+{
+"mail": {
+"Subject": "Urgent you won a prize",
+"From": "spammer1@mail.com",
+"Date": "2000-01-10",
+"Body":"URGENT! We are trying to contact you. Last weekends draw shows that you won a £1000 prize GUARANTEED. Call 09064012160.",
+"Spam": "true",
+"File": "enronds//enron2/ham/0146.2000-01-10.kaminski.ham.txt"
+}
+
+},
+{
+"mail": {
+"Subject": "Dinner",
+"From": "good_person1@mail.com",
+"Date": "2002-01-11",
+"Body":"Going for magnificent dinner.msg you after",
+"Spam": "false",
+"File": "enronds//enron3/ham/5071.2002-01-11.kitchen.ham.txt"
+}
+
+},
+{
+"mail": {
+"Subject": "Holiday winner",
+"From": "spammer1@mail.com",
+"Date": "2001-01-16",
+"Body":"You are a winner U have been specially selected 2 receive £1000 or a 4* holiday speak to a live operator 2 claim 08712778",
+"Spam": "true",
+"File": "enronds//enron2/ham/4066.2001-01-16.kaminski.ham.txt"
+}
+
+},
+{
+"mail": {
+"Subject": "How are you",
+"From": "good_person1@mail.com",
+"Date": "2002-01-30",
+"Body":"Hello, my love. What are you doing? Did you get to that fantastic interview today? Are you you happy? Are you being a good boy? Do you think of me?Are you missing me?",
+"Spam": "false",
+"File": "enronds//enron3/ham/5347.2002-01-30.kitchen.ham.txt"
+}
+
+},
+{
+"mail": {
+"Subject": "Winner",
+"From": "spammer1@mail.com",
+"Date": "2002-02-05",
+"Body":"You are a winner U have been specially selected 2 receive £1000 cash or a 4* holiday speak to a live operator 2 claim 0871277810810",
+"Spam": "true",
+"File": "enronds//enron3/ham/5485.2002-02-05.kitchen.ham.txt"
+}
+
+},
+{
+"mail": {
+"Subject": "I miss you",
+"From": "good_person1@mail.com",
+"Date": "2004-04-24",
+"Body":"Keep yourself safe for me because I need you and I miss you largely already and I envy everyone that see's you in real life",
+"Spam": "false",
+"File": "enronds//enron4/spam/0963.2004-04-24.GP.spam.txt"
+}
+
+},
+{
+"mail": {
+"Subject": "Prize won",
+"From": "spammer2@mail.com",
+"Date": "2000-08-08",
+"Body":"Please call our customer service representative on FREEPHONE 0808 145 4742 between 9am-11pm as you have WON a guaranteed £1000 cash or £5000 prize!",
+"Spam": "true",
+"File": "enronds//enron2/ham/2082.2000-08-08.kaminski.ham.txt"
+}
+
+},
+{
+"mail": {
+"Subject": "Love you",
+"From": "good_person2@mail.com",
+"Date": "2001-01-24",
+"Body":"I'm so in love with you. I'm excited each precious day i spend with you. You make me so happy.",
+"Spam": "false",
+"File": "enronds//enron2/ham/4233.2001-01-24.kaminski.ham.txt"
+}
+
+},
+{
+"mail": {
+"Subject": "Free vouchers awarded",
+"From": "spammer2@mail.com",
+"Date": "2000-07-05",
+"Body":"Congratulations ur awarded 500 of CD vouchers or 125gift guaranteed & Free entry 2 100 wkly draw txt MUSIC to 87066 TnCs",
+"Spam": "true",
+"File": "enronds//enron2/ham/1683.2000-07-05.kaminski.ham.txt"
+}
+
+},
+{
+"mail": {
+"Subject": " Poem",
+"From": "good_person2@mail.com",
+"Date": "2001-06-20",
+"Body":"Night has ended for another day, morning has come in a extremely special way.",
+"Spam": "false",
+"File": "enronds//enron4/ham/0713.2001-06-20.williams.ham.txt"
+}
+
+},
+{
+"mail": {
+"Subject": "you won free phone",
+"From": "spammer2@mail.com",
+"Date": "2005-07-21",
+"Body":"T-Mobile customer you may now claim your FREE CAMERA PHONE upgrade & a pay & go sim card for your loyalty. visit www.freesim.com",
+"Spam": "true",
+"File": "enronds//enron4/spam/5678.2005-07-21.GP.spam.txt"
+}
+
+},
+{
+"mail": {
+"Subject": "Good day",
+"From": "good_person2@mail.com",
+"Date": "2000-10-27",
+"Body":"You made my day. Do have a great unbelievable day too.",
+"Spam": "false",
+"File": "enronds//enron2/ham/3045.2000-10-27.kaminski.ham.txt"
+}
+
+},
+{
+"mail": {
+"Subject": " Congratulations free vouchers",
+"From": "spammer2@mail.com",
+"Date": "2001-10-29",
+"Body":"Congratulations ur awarded 500 of CD vouchers or 125gift guaranteed & Free entry 2 100 wkly draw txt MUSIC to 87066 TnCs www.Ldew.com1win150ppmx3age16",
+"Spam": "true",
+"File": "enronds//enron3/ham/3536.2001-10-29.kitchen.ham.txt"
+}
+
+},
+{
+"mail": {
+"Subject": "Meeting",
+"From": "good_person2@mail.com",
+"Date": "2000-10-06",
+"Body":"Busy here. Trying to finish for fantastic new year. I am looking forward to finally meeting you...",
+"Spam": "false",
+"File": "enronds//enron2/ham/2674.2000-10-06.kaminski.ham.txt"
+}
+
+},
+{
+"mail": {
+"Subject": "Discount code",
+"From": "spammer2@mail.com",
+"Date": "2004-08-02",
+"Body":"Here is your discount code RP176781. To stop further messages reply stop. www.regalportfolio.co.uk. Customer Services 08717205546",
+"Spam": "true",
+"File": "enronds//enron4/spam/1918.2004-08-02.GP.spam.txt"
+}
+
+},
+{
+"mail": {
+"Subject": "Love you",
+"From": "good_person2@mail.com",
+"Date": "2000-01-12",
+"Body":"Hello ... I miss you already and I just recently woke up. I wish you were here in bed with me, cuddling me. I love you ...",
+"Spam": "false",
+"File": "enronds//enron1/ham/0186.2000-01-12.farmer.ham.txt"
+}
+}]
+}
