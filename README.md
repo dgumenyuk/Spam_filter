@@ -2,8 +2,7 @@
 Naive Bayes Spam Filter used in the lab works for "Software testing and validation" course in Polytechnique Montreal, where I was a TA.
 More information about the system can be found in the pdf file, which lab1 description.
 Here's a brief overview:
-Each module of the system is implemented in the separate python file. The main ones
-System modules are:
+Each module of the system is implemented in the separate python file. The main system modules are:
 - `crud.py`: module to achieve the functionality
 CRUD (Create Read Update Delete) for users and groups. User
 is represented by his e-mail address and the information he receives
@@ -18,3 +17,5 @@ groups.
 e-mail is spam or ham.
 - `main.py`: main module to manage the system. Understand
 a spam detection accuracy evaluation function.
+
+To run the system execute: `python3 main.py`
